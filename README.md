@@ -1,5 +1,5 @@
 # Codefundo-2019
-##Mobile Voting System based on Blockchain
+## Mobile Voting System based on Blockchain
 ## TEAM                   THE BLACK PEARL 
 ###                       Captain Kumar Harsh, First Mate Siddharth Singh Chauhan
 
